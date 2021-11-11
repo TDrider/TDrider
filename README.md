@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TDrider from UESTC in China
-- 👀 I’m interested in Cyberspace security and I eager to be a REDHAT.
+- 👀 I’m interested in Cyberspace security which is mainly used to prevent citizens from being invaded by cybervirus and some illegal sh*t.
 - 🌱 I’m currently learning php programming and Compilation principle(freaking monster!!!).
 - ✨ I`ve already leant things like HTML,CSS,JavaScript.
      I have study JavaFX combined with JFoenix,an open-source plugin(kind of) for JavaFX.
