@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @TDrider from UESTC in China
-- 👀 I’m interested in Cyberspace security which is mainly used to prevent citizens from being invaded by cybervirus and some illegal sh*t.
-- 🌱 I’m currently learning php programming and Compilation principle(freaking monster!!!).
-- ✨ I`ve already leant things like HTML,CSS,JavaScript.
-     I have study JavaFX combined with JFoenix,an open-source plugin(kind of) for JavaFX.
-- 📫 Reach me on this site or wechat Rider_pikachu
+- 👋 Hi, I’m @TDrider from SJTU in China
 
 First update README.md in 2021/11/6 22:56
 Feeling regret for not creating my own blog earlier😢😢😢
